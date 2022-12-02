@@ -16,3 +16,6 @@ print ("to escape a tab use \t look! look again\t!")
 
 print("Hey " , "look " , "what " , 1 , "learned" , "about separators", sep="@") # this will  use @ as separator and separate the values given to print , if no sep is given _blank_space_ is used
 
+print("this is another talk  about end ", end="/ended") #end will end the given sequence with the given word to end=
+
+print("\nthats it see you tommorow")
