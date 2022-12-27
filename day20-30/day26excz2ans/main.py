@@ -1,3 +1,6 @@
+#EXCERSIZE 2 ANS
+
+
 import time 
 
 t = time.strftime('%H:%M:%S')

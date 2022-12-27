@@ -1,3 +1,4 @@
+#STRING METHODS
 name = "Harry,Subham" 
 print(name[0:5]) #this will print the first 5 characters name[initial:end-1]] , 
 

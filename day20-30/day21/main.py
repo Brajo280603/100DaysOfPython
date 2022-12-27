@@ -1,3 +1,6 @@
+#FUNCTION ARGUMENTS
+
+
 # def average(a,b): #here a and b are required arguments as the function uses a and b inside
 #   print("the average is ", (a+b)/2)
 

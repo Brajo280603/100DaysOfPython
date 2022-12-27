@@ -1,3 +1,4 @@
+#USER INPUT
 string = input("enter a string:")
 integer = int(input("enter an integer:"))
 floating = float(input("enter a floating point number:"))

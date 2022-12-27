@@ -1,3 +1,4 @@
+#IF ELSE CONDITIONS
 budget = 500
 price = int(input("Enter the price:"))
 

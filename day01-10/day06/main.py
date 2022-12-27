@@ -1,3 +1,5 @@
+#DATA TYPES
+
 #a variable is a container for storing different types of datas in the ram for temporary use in the program
 a = 2323
 print(a)

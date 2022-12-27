@@ -1,3 +1,4 @@
+#FIRST PROGRAM IN PYTHON
 print("Hello World!",7) #can also separate datas by , 
 print(5)
 print("Bye")

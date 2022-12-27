@@ -1,3 +1,4 @@
+#ESCAPE SEQUENCES
 print("Hey I am a good boy \n and the viewer of this code is also a good boy/girl") #\n is a newline character it introduces a newLine it will enter a newLine in the output
 
 #this is a single line comment , use it by starting it with "#"

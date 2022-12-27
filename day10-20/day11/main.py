@@ -1,3 +1,4 @@
+#STRINGS
 str1 = "this is a string"
 str2 = 'strings can also be written with single quotes'
 

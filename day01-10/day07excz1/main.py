@@ -1,3 +1,5 @@
+#EXCERSIZE 1: CALCULATOR USING PYTHON
+
 print(1+3) #addition operator
 print(3-3) #substraction operator
 print(3*6) #multiplication operator

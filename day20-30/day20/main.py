@@ -1,3 +1,5 @@
+#FUNCTIONS
+
 
 #this is how you define a function in python
 def calGmean(a, b):

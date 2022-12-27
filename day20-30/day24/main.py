@@ -1,3 +1,6 @@
+#TUPLES
+
+
 tup = (1,5,6,7,8,9,10) #this is a tuple , values are nonchangeable
 
 onetup=(1,)#a comma is necessary to make a single element tuple, 
